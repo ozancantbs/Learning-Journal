@@ -37,41 +37,41 @@ Yol haritası; teknik dokümantasyonlar, güvenlik odaklı değerlendirmeler, uy
 ## 🌐 Module 01: Advanced Networking for Platforms — ✅ In Progress
 
 - ✅ [**Physical & Data Link Layers** — <sub>*OSI ve TCP/IP modelleri, encapsulation, fiziksel sinyaller, Ethernet frame yapısı, MAC addressing, switching, MTU, interface counters ve Layer 1/2 troubleshooting.*<sub>](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/01_Physical_%26_Data_Link_Layers)
-- ✅ [**ARP & Local Network Dynamics** — ARP çalışma mantığı, neighbor table, ARP cache durumları, gratuitous ARP, proxy ARP, ARP spoofing riskleri ve Dynamic ARP Inspection.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/02_ARP_%26_Local_Network_Dynamics)
-- ✅ [**VLAN & VXLAN** — Layer 2 segmentasyonu, access ve trunk portlar, IEEE 802.1Q tagging, VLAN hopping riskleri, VXLAN overlay mimarisi, VTEP ve VNI kavramları.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/03_VLAN_%26_VXLAN)
-- ✅ [**Network Routing & Subnetting** — IPv4 adresleme, CIDR, subnetting, routing table, default gateway, static ve dynamic routing temelleri, OSPF/BGP genel mantığı ve IP fragmentation.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/04_Network_Routing_%26_Subnetting)
-- ✅ [**Transport Layer & Traffic Control** — TCP ve UDP, portlar ve socket'ler, TCP three-way handshake, sequence ve acknowledgment numbers, flow control, congestion control, retransmission ve connection termination.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/05_Transport_Layer_%26_Traffic_Control)
-- ✅ [**Application Layer Services** — DNS kayıt türleri, DNS resolution, DNS spoofing riskleri, DHCP DORA süreci, DHCP Snooping, HTTP/HTTPS ve TLS handshake.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/06_Application_Layer_Services)
-- ✅ [**Load Balancing & Proxy Concepts** — Forward proxy ve reverse proxy, Layer 4 ve Layer 7 load balancing, health checks, session persistence, TLS termination ve TLS passthrough.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/07_Load_Balancing_%26%20_Proxy_Concepts)
+- ✅ [**ARP & Local Network Dynamics** — <sub>*ARP çalışma mantığı, neighbor table, ARP cache durumları, gratuitous ARP, proxy ARP, ARP spoofing riskleri ve Dynamic ARP Inspection.*<sub>](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/02_ARP_%26_Local_Network_Dynamics)
+- ✅ [**VLAN & VXLAN** — <sub>*Layer 2 segmentasyonu, access ve trunk portlar, IEEE 802.1Q tagging, VLAN hopping riskleri, VXLAN overlay mimarisi, VTEP ve VNI kavramları.*<sub>](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/03_VLAN_%26_VXLAN)
+- ✅ [**Network Routing & Subnetting** — <sub>*IPv4 adresleme, CIDR, subnetting, routing table, default gateway, static ve dynamic routing temelleri, OSPF/BGP genel mantığı ve IP fragmentation.*<sub>](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/04_Network_Routing_%26_Subnetting)
+- ✅ [**Transport Layer & Traffic Control** — <sub>*TCP ve UDP, portlar ve socket'ler, TCP three-way handshake, sequence ve acknowledgment numbers, flow control, congestion control, retransmission ve connection termination.*<sub>](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/05_Transport_Layer_%26_Traffic_Control)
+- ✅ [**Application Layer Services** — <sub>*DNS kayıt türleri, DNS resolution, DNS spoofing riskleri, DHCP DORA süreci, DHCP Snooping, HTTP/HTTPS ve TLS handshake.*<sub>](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/06_Application_Layer_Services)
+- ✅ [**Load Balancing & Proxy Concepts** — <sub>*Forward proxy ve reverse proxy, Layer 4 ve Layer 7 load balancing, health checks, session persistence, TLS termination ve TLS passthrough.*<sub>](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/07_Load_Balancing_%26%20_Proxy_Concepts)
 
 ---
 
 ## 🐧 Module 02: Enterprise Linux System Administration — ✅ In Progress
 
-- ✅ **Linux Architecture, Boot Process & FHS** — Kernel, initramfs, GRUB, systemd, boot süreci ve Linux dizin hiyerarşisi; `/etc`, `/var`, `/home`, `/opt`, `/tmp`, `/proc`, `/sys` ve `/dev`.
-- ✅ **Shell, CLI & Stream Processing** — Standard input/output, pipes, redirection, environment variables ve `grep`, `awk`, `sed`, `cut`, `sort`, `uniq`, `find`, `xargs` gibi araçlar.
-- ✅ **User & Permission Management** — User ve group yönetimi, UID/GID, `chmod`, `chown`, `umask`, POSIX ACLs, sudoers ve least-privilege yaklaşımı.
-- ✅ **Process & Resource Management** — Process lifecycle, signals, foreground/background jobs, `ps`, `top`, `htop`, `kill`, file descriptors, memory ve CPU resource takibi.
-- ✅ **systemd, Services & Scheduled Tasks** — Unit files, service dependencies, `systemctl`, `journalctl`, restart policies, systemd timers ve cron.
-- ✅ **Storage, Filesystems & LVM** — Partitioning, block devices, ext4, XFS, mount işlemleri, `/etc/fstab`, inode yapısı, swap, LVM, RAID ve disk kapasite yönetimi.
-- ✅ **Linux Networking & Troubleshooting** — Interface yönetimi, routing, DNS çözümleme, `/etc/hosts`, `systemd-resolved`, `ip`, `ss`, `tcpdump`, `dig`, `curl`, `nc` ve network namespaces.
-- ✅ **Package & Repository Management** — `apt`, `dpkg`, `dnf`, `rpm`, repository yapıları, package signatures, dependency management ve güvenli güncelleme süreçleri.
-- ✅ **Logging, Time & Operational Maintenance** — `/var/log`, systemd journal, rsyslog, log rotation, NTP, chrony, backup, restore validation ve bakım planları.
+- ✅ **Linux Architecture, Boot Process & FHS** — <sub>*Kernel, initramfs, GRUB, systemd, boot süreci ve Linux dizin hiyerarşisi; `/etc`, `/var`, `/home`, `/opt`, `/tmp`, `/proc`, `/sys` ve `/dev`.
+- ✅ **Shell, CLI & Stream Processing** — <sub>*Standard input/output, pipes, redirection, environment variables ve `grep`, `awk`, `sed`, `cut`, `sort`, `uniq`, `find`, `xargs` gibi araçlar.
+- ✅ **User & Permission Management** — <sub>*User ve group yönetimi, UID/GID, `chmod`, `chown`, `umask`, POSIX ACLs, sudoers ve least-privilege yaklaşımı.
+- ✅ **Process & Resource Management** — <sub>*Process lifecycle, signals, foreground/background jobs, `ps`, `top`, `htop`, `kill`, file descriptors, memory ve CPU resource takibi.
+- ✅ **systemd, Services & Scheduled Tasks** — <sub>*Unit files, service dependencies, `systemctl`, `journalctl`, restart policies, systemd timers ve cron.
+- ✅ **Storage, Filesystems & LVM** — <sub>*Partitioning, block devices, ext4, XFS, mount işlemleri, `/etc/fstab`, inode yapısı, swap, LVM, RAID ve disk kapasite yönetimi.
+- ✅ **Linux Networking & Troubleshooting** — <sub>*Interface yönetimi, routing, DNS çözümleme, `/etc/hosts`, `systemd-resolved`, `ip`, `ss`, `tcpdump`, `dig`, `curl`, `nc` ve network namespaces.
+- ✅ **Package & Repository Management** — <sub>*`apt`, `dpkg`, `dnf`, `rpm`, repository yapıları, package signatures, dependency management ve güvenli güncelleme süreçleri.
+- ✅ **Logging, Time & Operational Maintenance** — <sub>*`/var/log`, systemd journal, rsyslog, log rotation, NTP, chrony, backup, restore validation ve bakım planları.
 
 ---
 
 ## 🛡️ Module 03: Security Engineering & Incident Management — ⏳ Planned
 
-- ⏳ **Security Foundations & Risk Management** — CIA triad, authentication, authorization, accountability, assets, threats, vulnerabilities, risk, attack surface ve defense in depth.
-- ⏳ **Threat Modeling & Attack Lifecycle** — Trust boundaries, data-flow diagrams, STRIDE, attack trees, Cyber Kill Chain, MITRE ATT&CK ve saldırı yaşam döngüsü.
-- ⏳ **Network and Availability Threats** — MITM, spoofing, session hijacking, DNS ve ARP saldırıları, DoS/DDoS, SYN flood ve hizmet kesintisi senaryoları.
-- ⏳ **Malware & Endpoint Defense** — Worm, Trojan, ransomware, rootkit, botnet, fileless malware, sandboxing, hashes, EDR ve endpoint hardening.
-- ⏳ **Firewalling & Network Defense** — Stateful ve stateless filtering, Netfilter, iptables, nftables, connection tracking, NAT, rate limiting ve segmentation.
-- ⏳ **Cryptography, PKI & SSH Security** — Symmetric ve asymmetric cryptography, hashing, digital signatures, certificates, SSH key pairs, host keys ve `sshd_config` hardening.
-- ⏳ **Linux Hardening & Vulnerability Management** — Attack-surface reduction, CIS Benchmarks, CVE/CVSS, patching, service inventory, permissions, PAM, SELinux ve AppArmor temelleri.
-- ⏳ **System Auditing, Logging & SIEM** — `/var/log`, systemd journal, auditd, log bütünlüğü, merkezi loglama, SIEM, detection rules ve security-event analysis.
-- ⏳ **Log-Based Abuse Mitigation** — Fail2Ban çalışma mantığı, authentication log analizi, geçici engelleme, rate limiting ve aracın güvenlik sınırlamaları.
-- ⏳ **Incident Response Fundamentals** — Preparation, detection, triage, containment, eradication, recovery, evidence preservation, communication ve post-incident review.
+- ⏳ **Security Foundations & Risk Management** — <sub>*CIA triad, authentication, authorization, accountability, assets, threats, vulnerabilities, risk, attack surface ve defense in depth.
+- ⏳ **Threat Modeling & Attack Lifecycle** — <sub>*Trust boundaries, data-flow diagrams, STRIDE, attack trees, Cyber Kill Chain, MITRE ATT&CK ve saldırı yaşam döngüsü.
+- ⏳ **Network and Availability Threats** — <sub>*MITM, spoofing, session hijacking, DNS ve ARP saldırıları, DoS/DDoS, SYN flood ve hizmet kesintisi senaryoları.
+- ⏳ **Malware & Endpoint Defense** — <sub>*Worm, Trojan, ransomware, rootkit, botnet, fileless malware, sandboxing, hashes, EDR ve endpoint hardening.
+- ⏳ **Firewalling & Network Defense** — <sub>*Stateful ve stateless filtering, Netfilter, iptables, nftables, connection tracking, NAT, rate limiting ve segmentation.
+- ⏳ **Cryptography, PKI & SSH Security** — <sub>*Symmetric ve asymmetric cryptography, hashing, digital signatures, certificates, SSH key pairs, host keys ve `sshd_config` hardening.
+- ⏳ **Linux Hardening & Vulnerability Management** — <sub>*Attack-surface reduction, CIS Benchmarks, CVE/CVSS, patching, service inventory, permissions, PAM, SELinux ve AppArmor temelleri.
+- ⏳ **System Auditing, Logging & SIEM** — <sub>*`/var/log`, systemd journal, auditd, log bütünlüğü, merkezi loglama, SIEM, detection rules ve security-event analysis.
+- ⏳ **Log-Based Abuse Mitigation** — <sub>*Fail2Ban çalışma mantığı, authentication log analizi, geçici engelleme, rate limiting ve aracın güvenlik sınırlamaları.
+- ⏳ **Incident Response Fundamentals** — <sub>*Preparation, detection, triage, containment, eradication, recovery, evidence preservation, communication ve post-incident review.
 
 ---
 
@@ -85,18 +85,18 @@ Web uygulamalarının, API'lerin ve veri katmanlarının çalışma prensiplerin
 
 ## 🌍 Module 04: Web, API & Database Foundations — ⏳ Planned
 
-- ⏳ **Web Architecture Fundamentals** — Client-server modeli, request-response akışı, stateless ve stateful application yaklaşımları.
-- ⏳ **HTTP & HTTPS** — HTTP methods, status codes, headers, content types, caching, HTTP/1.1, HTTP/2, HTTP/3 ve HTTPS.
-- ⏳ **TLS & Certificate Validation** — TLS handshake, X.509 certificates, Certificate Authorities, SNI, certificate chains ve renewal süreçleri.
-- ⏳ **Cookies, Sessions & Authentication** — Cookies, session management, authentication state, secure cookie attributes ve session security.
-- ⏳ **REST API Fundamentals** — Resources, endpoints, HTTP methods, idempotency, pagination, versioning, rate limiting ve API error handling.
-- ⏳ **Tokens, JWT & OAuth 2.0** — Access tokens, refresh tokens, JWT yapısı, OAuth 2.0 akışları ve OpenID Connect temelleri.
-- ⏳ **Browser & API Security** — CORS, CSRF, XSS, Host header risks, input validation, authentication ve authorization ayrımı.
-- ⏳ **Relational Database Fundamentals** — PostgreSQL ve MySQL genel mimarisi, schemas, tables, primary/foreign keys ve normalization.
-- ⏳ **Transactions & Concurrency** — ACID, transaction isolation levels, locks, deadlocks ve consistency kavramları.
-- ⏳ **Indexes & Query Performance** — Index yapıları, query plans, full-table scans, latency ve temel query optimization.
-- ⏳ **Database Availability & Protection** — Replication, backup, restore testing, encryption, access control ve credential management.
-- ⏳ **Caching & In-Memory Data Stores** — Redis temelleri, cache-aside yaklaşımı, expiration, persistence ve cache invalidation problemleri.
+- ⏳ **Web Architecture Fundamentals** — <sub>*Client-server modeli, request-response akışı, stateless ve stateful application yaklaşımları.
+- ⏳ **HTTP & HTTPS** — <sub>*HTTP methods, status codes, headers, content types, caching, HTTP/1.1, HTTP/2, HTTP/3 ve HTTPS.
+- ⏳ **TLS & Certificate Validation** — <sub>*TLS handshake, X.509 certificates, Certificate Authorities, SNI, certificate chains ve renewal süreçleri.
+- ⏳ **Cookies, Sessions & Authentication** — <sub>*Cookies, session management, authentication state, secure cookie attributes ve session security.
+- ⏳ **REST API Fundamentals** — <sub>*Resources, endpoints, HTTP methods, idempotency, pagination, versioning, rate limiting ve API error handling.
+- ⏳ **Tokens, JWT & OAuth 2.0** — <sub>*Access tokens, refresh tokens, JWT yapısı, OAuth 2.0 akışları ve OpenID Connect temelleri.
+- ⏳ **Browser & API Security** — <sub>*CORS, CSRF, XSS, Host header risks, input validation, authentication ve authorization ayrımı.
+- ⏳ **Relational Database Fundamentals** — <sub>*PostgreSQL ve MySQL genel mimarisi, schemas, tables, primary/foreign keys ve normalization.
+- ⏳ **Transactions & Concurrency** — <sub>*ACID, transaction isolation levels, locks, deadlocks ve consistency kavramları.
+- ⏳ **Indexes & Query Performance** — <sub>*Index yapıları, query plans, full-table scans, latency ve temel query optimization.
+- ⏳ **Database Availability & Protection** — <sub>*Replication, backup, restore testing, encryption, access control ve credential management.
+- ⏳ **Caching & In-Memory Data Stores** — <sub>*Redis temelleri, cache-aside yaklaşımı, expiration, persistence ve cache invalidation problemleri.
 
 ---
 
@@ -311,6 +311,250 @@ Yüksek erişilebilirlik, dayanıklılık, ölçeklenebilirlik, güvenli erişim
 
 ---
 
+# 🤖 Level 5: AI Systems Security, MLSecOps & Governance — ⏳ Planned
+
+### Yapay Zekâ Sistemleri Güvenliği, Güvenli Model Yaşam Döngüsü ve AI Yönetişimi
+
+Yapay zekâ ve makine öğrenmesi sistemlerinin mimarisinin, tehdit yüzeylerinin ve yaşam döngüsünün incelendiği; LLM, RAG ve agent tabanlı uygulamaların güvenli biçimde geliştirildiği, dağıtıldığı, izlendiği ve yönetildiği ileri seviye uzmanlık alanıdır.
+
+## 🧠 Module 16: AI, Machine Learning & LLM Foundations for Security Engineers — ⏳ Planned
+
+⏳ AI & Machine Learning Foundations — Artificial Intelligence, Machine Learning, Deep Learning ve Generative AI arasındaki farklar; supervised, unsupervised, reinforcement ve self-supervised learning yaklaşımları.
+⏳ AI System Lifecycle — Veri toplama, veri hazırlama, training, validation, testing, fine-tuning, deployment, inference, monitoring, retraining ve retirement aşamaları.
+⏳ Model Architecture Fundamentals — Neural networks, parameters, weights, layers, loss functions, optimization, checkpoints ve model formats kavramları.
+⏳ Large Language Model Fundamentals — Transformer mimarisi, attention, tokens, tokenization, context window, temperature, sampling ve hallucination kavramları.
+⏳ Embeddings & Semantic Search — Embedding modelleri, similarity search, vector representations, indexing ve semantic-retrieval çalışma mantığı.
+⏳ Retrieval-Augmented Generation — RAG ingestion, chunking, embedding, retrieval, reranking, context construction ve generation akışı.
+⏳ Vector Databases — Vector indexes, metadata filtering, namespaces, document permissions, multi-tenancy ve vector-store erişim kontrolü.
+⏳ AI Agents & Tool Use — Planning, reasoning loops, memory, tool calling, function calling, external APIs ve autonomous-action riskleri.
+⏳ Model Context Protocol Fundamentals — MCP servers, clients, tools, resources, prompts, trust boundaries ve third-party integration riskleri.
+⏳ Training, Fine-Tuning & Inference — Pre-training, supervised fine-tuning, instruction tuning, adapters, LoRA, quantization ve inference-serving farkları.
+⏳ AI Security Terminology — Model, dataset, prompt, system prompt, guardrail, agent, inference endpoint, model registry ve evaluation kavramları.
+
+---
+
+## 🧭 Module 17: AI Threat Modeling & Security Architecture — ⏳ Planned
+
+⏳ AI System Asset Identification — Models, datasets, prompts, embeddings, vector stores, APIs, agents, tools, credentials, logs ve model artifacts gibi korunması gereken varlıkların belirlenmesi.
+⏳ AI Data-Flow Diagrams — Kullanıcı, uygulama, model provider, RAG pipeline, agent tools, databases ve external services arasındaki veri akışlarının çıkarılması.
+⏳ Trust Boundaries — User input, retrieved content, model output, agent memory, tool responses ve third-party models arasındaki güven sınırlarının belirlenmesi.
+⏳ AI Attack-Surface Analysis — Training, supply chain, model storage, inference API, application, RAG, agent ve monitoring katmanlarının saldırı yüzeyleri.
+⏳ Threat Actors & Capabilities — External attackers, malicious users, insiders, compromised suppliers ve automated-abuse actors.
+⏳ AI Misuse & Abuse Cases — Modelin yetkisiz, zararlı, maliyet artırıcı veya kurum politikasına aykırı amaçlarla kullanılması.
+⏳ Threat Modeling Methods — STRIDE, attack trees, abuse cases ve AI sistemlerine uyarlanmış threat-modeling yaklaşımları.
+⏳ OWASP LLM & Generative AI Risks — LLM uygulamalarına özgü güvenlik risklerinin mimari ve uygulama seviyesinde değerlendirilmesi.
+⏳ MITRE ATLAS — Predictive AI, Generative AI ve Agentic AI sistemlerine yönelik saldırı taktikleri, teknikleri ve mitigations.
+⏳ NIST AI Risk Management Framework — Govern, Map, Measure ve Manage fonksiyonlarının AI güvenlik risklerine uygulanması.
+⏳ Security Requirements Engineering — Authentication, authorization, confidentiality, integrity, availability, privacy, auditability ve human-oversight gereksinimleri.
+⏳ AI Security Architecture Patterns — Isolation, least privilege, defense in depth, zero trust, secure gateways ve controlled tool execution.
+⏳ AI Risk Register — Risk owner, likelihood, impact, control, residual risk, acceptance ve remediation tracking.
+
+ ---
+ 
+## 🔐 Module 18: LLM, RAG & Agentic Application Security — ⏳ Planned
+
+⏳ Direct Prompt Injection — Kullanıcının model davranışını veya sistem talimatlarını doğrudan değiştirmeye çalıştığı saldırılar.
+⏳ Indirect Prompt Injection — Web pages, documents, emails, retrieved content veya external tool outputs içine yerleştirilmiş kötü amaçlı talimatlar.
+⏳ System-Prompt Extraction — System prompt, hidden instructions, internal policies ve application logic bilgilerinin model üzerinden elde edilmesi.
+⏳ Jailbreak Attacks — Modelin güvenlik ve kullanım sınırlamalarının crafted prompts, encoding, role-play veya multi-step interactions ile aşılması.
+⏳ Sensitive Information Disclosure — Credentials, personal data, proprietary data, internal documents ve confidential context bilgilerinin model çıktılarında açığa çıkması.
+⏳ Insecure Output Handling — Model çıktılarının doğrulanmadan shell, database, browser, HTML renderer veya downstream application tarafından çalıştırılması.
+⏳ Excessive Agency — Agentlara gereğinden fazla sistem, dosya, network, database veya cloud yetkisi verilmesi.
+⏳ Agent Identity & Authorization — Kullanıcı kimliği, agent identity, delegated permissions, service accounts ve end-to-end authorization kontrolleri.
+⏳ Tool-Calling Security — Tool allowlists, parameter validation, schema enforcement, confirmation gates ve destructive-action restrictions.
+⏳ MCP Server & Tool Security — Malicious MCP servers, tool impersonation, poisoned tool descriptions, overprivileged tools ve untrusted resources.
+⏳ Agent Memory Security — Persistent memory, conversation history, long-term state ve stored context bilgilerinin zehirlenmesi veya sızdırılması.
+⏳ Context Poisoning — Model context'inin yanlış, kötü amaçlı veya yanıltıcı bilgilerle manipüle edilmesi.
+⏳ RAG Poisoning — Knowledge base, document store veya retrieved content içine manipüle edilmiş içerik yerleştirilmesi.
+⏳ Retrieval Authorization — Kullanıcının yalnızca erişim yetkisi bulunan dokümanların RAG pipeline tarafından getirilmesi.
+⏳ Vector Database Security — Authentication, encryption, tenant isolation, metadata authorization, backup ve audit logging.
+⏳ Cross-Tenant Data Leakage — Çok kiracılı sistemlerde kullanıcı veya kurum verilerinin başka tenant'lara sızması.
+⏳ SSRF & External-Resource Abuse — Agent veya tool mekanizmalarının internal services, metadata endpoints veya yetkisiz URL'lere erişmek için kullanılması.
+⏳ Code-Execution & Sandbox Risks — Model tarafından üretilen kodun kontrollü olmayan ortamlarda çalıştırılması ve sandbox escape riskleri.
+⏳ Output Validation & Policy Enforcement — Structured output, schema validation, content filtering, allowlists ve deterministic security controls.
+⏳ Human-in-the-Loop Controls — Para transferi, veri silme, production değişikliği, email gönderme ve credential işlemlerinde insan onayı.
+⏳ Rate Limiting & Cost Controls — Token, request, concurrency, tool-call ve spending limitleriyle abuse ve denial-of-wallet risklerinin azaltılması.
+⏳ Model API Security — Authentication, authorization, TLS, request validation, quotas, logging ve abuse prevention.
+⏳ Secure Conversation Design — Session isolation, context boundaries, history management ve conversation-state güvenliği.
+
+---
+
+## 🧬 Module 19: Adversarial Machine Learning & Model Security — ⏳ Planned
+
+⏳ Adversarial ML Foundations — Model davranışının kötü amaçlı girdiler, training data veya model artifacts üzerinden manipüle edilmesi.
+⏳ Evasion Attacks — Model inference sırasında girdilerin sınıflandırma veya karar mekanizmasını yanıltacak biçimde değiştirilmesi.
+⏳ Adversarial Examples — İnsan için küçük görünen ancak model sonucunu önemli ölçüde değiştiren crafted inputs.
+⏳ Training-Data Poisoning — Training veya fine-tuning verilerinin model davranışını bozmak amacıyla manipüle edilmesi.
+⏳ Backdoor & Trojan Attacks — Belirli trigger girdilerinde saldırganın istediği sonucu üreten gizli model davranışları.
+⏳ Fine-Tuning Attacks — Zararlı dataset, adapter veya fine-tuning süreçleri üzerinden model davranışının değiştirilmesi.
+⏳ Model Extraction — Query-response interactions üzerinden hedef modelin davranışının veya işlevinin kopyalanması.
+⏳ Model Inversion — Model outputs veya gradients üzerinden training data özelliklerinin yeniden oluşturulmaya çalışılması.
+⏳ Membership Inference — Belirli bir verinin modelin training dataset'i içinde bulunup bulunmadığının tahmin edilmesi.
+⏳ Model Fingerprinting — Model family, version, architecture veya provider bilgilerinin davranışsal yöntemlerle belirlenmesi.
+⏳ Model Theft — Model weights, checkpoints, adapters, architecture bilgileri veya private endpoints'in yetkisiz biçimde ele geçirilmesi.
+⏳ Privacy Attacks — Training data memorization, personal-data leakage ve reconstruction saldırıları.
+⏳ Model Integrity Verification — Hashes, digital signatures, artifact validation ve trusted model-source kontrolleri.
+⏳ Robustness Evaluation — Modelin adversarial, noisy, out-of-distribution ve manipulated inputs karşısındaki dayanıklılığının ölçülmesi.
+⏳ Mitigation Limitations — Adversarial training, filtering, detection ve guardrail yöntemlerinin sınırlamalarının değerlendirilmesi.
+
+---
+
+## 🗃️ Module 20: AI Data Security, Privacy & Knowledge Protection — ⏳ Planned
+
+⏳ AI Data Classification — Public, internal, confidential, restricted, personal ve regulated data türlerinin sınıflandırılması.
+⏳ Dataset Inventory & Ownership — Dataset owner, source, purpose, access, retention ve approved-use bilgilerinin kayıt altına alınması.
+⏳ Data Lineage & Provenance — Verinin kaynağı, dönüşümleri, training süreçleri ve model üzerindeki kullanımının izlenebilir olması.
+⏳ Data Quality & Integrity — Eksik, yanlış, manipüle edilmiş, outdated veya malicious data'nın tespit edilmesi.
+⏳ Training-Data Access Control — Dataset storage, notebooks, pipelines ve processing systems için least-privilege erişim.
+⏳ Secrets & Credential Detection — API keys, passwords, certificates, tokens ve connection strings'in dataset, prompt veya notebook içinde bulunmasının engellenmesi.
+⏳ Personal-Data Protection — PII detection, masking, anonymization, pseudonymization ve data minimization.
+⏳ Encryption — Data at rest, data in transit, model artifacts, embeddings, backups ve logs için şifreleme.
+⏳ RAG Knowledge-Base Protection — Document permissions, ingestion approval, integrity validation ve source trust değerlendirmesi.
+⏳ Prompt & Response Privacy — Kullanıcı promptları, model outputs, feedback verileri ve conversation history'nin güvenli saklanması.
+⏳ Logging & Retention Controls — Prompt, response ve tool-call loglarının içerik, erişim, saklama süresi ve silme politikaları.
+⏳ Tenant Isolation — Dataset, vector namespace, memory ve retrieval context'in tenant bazında ayrılması.
+⏳ Data-Poisoning Detection — Anomalous records, duplicate content, malicious instructions ve unexpected distribution değişimlerinin tespiti.
+⏳ Data Usage Rights — Dataset licensing, consent, intellectual property ve permitted-use gereksinimleri.
+⏳ Privacy-Enhancing Technologies — Differential privacy, federated learning, secure aggregation ve confidential-computing kavramları.
+⏳ Secure Data Deletion — Dataset, embeddings, caches, model artifacts ve backups içindeki verilerin lifecycle'a uygun silinmesi.
+
+---
+
+## 🖥️ Module 21: Secure AI Infrastructure & Model Serving — ⏳ Planned
+
+⏳ AI Infrastructure Architecture — Model gateway, inference server, vector database, object storage, agent runtime, API ve monitoring bileşenleri.
+⏳ GPU & Accelerator Fundamentals — GPU resources, drivers, CUDA ecosystem, device access ve accelerator-sharing kavramları.
+⏳ GPU Workload Security — GPU device permissions, workload isolation, driver security, resource quotas ve multi-tenant accelerator riskleri.
+⏳ Secure Model Serving — Model loading, inference endpoints, batching, caching, streaming ve request-isolation güvenliği.
+⏳ Containerized AI Workloads — Non-root containers, minimal images, reduced capabilities, read-only filesystems ve image scanning.
+⏳ Kubernetes for AI Security — GPU scheduling, ServiceAccounts, RBAC, Pod Security Standards, NetworkPolicy ve workload isolation.
+⏳ Model-Serving Platforms — vLLM, Triton, KServe, Ray Serve veya benzeri serving çözümlerinin güvenlik mimarisi.
+⏳ Identity & Workload Authentication — Users, services, agents, workloads ve external APIs için güçlü kimlik doğrulama.
+⏳ Secrets & Key Management — Model API keys, database credentials, encryption keys ve signing keys'in güvenli yönetimi.
+⏳ Network Segmentation — Training, inference, management, storage ve monitoring ağlarının ayrılması.
+⏳ API Gateway Security — Authentication, authorization, request limits, schema validation, TLS termination ve audit logging.
+⏳ Service-to-Service Security — Mutual TLS, workload identities, certificate rotation ve service-mesh kontrolleri.
+⏳ Multi-Tenancy Isolation — Compute, memory, network, model, cache ve data katmanlarında tenant ayrımı.
+⏳ Model Registry Security — Model versioning, access control, signing, approval workflows ve artifact immutability.
+⏳ Artifact Storage Security — Model weights, checkpoints, adapters, tokenizer files ve configuration dosyalarının korunması.
+⏳ Secure Sandboxing — Untrusted code execution, interpreters, browser tools ve file-processing workloads için izolasyon.
+⏳ Availability & Resource Exhaustion — GPU, CPU, memory, token, queue ve concurrency tüketimine karşı koruma.
+⏳ Denial-of-Service & Denial-of-Wallet — Yüksek maliyetli inference requests, long-context attacks ve automated API abuse.
+⏳ AI Infrastructure Observability — Inference latency, token usage, errors, resource consumption, model loading ve tool-call telemetry.
+⏳ Backup, Recovery & Resilience — Model registry, vector database, configuration, prompts ve AI-service dependencies için recovery planları.
+⏳ Cloud AI Shared Responsibility — Managed model services, customer data, IAM, network, logging ve application-security sorumluluklarının ayrılması.
+
+---
+
+## 🔗 Module 22: MLSecOps, AI Supply Chain & Secure AI Development Lifecycle — ⏳ Planned
+
+⏳ MLSecOps Foundations — Machine Learning, MLOps, DevSecOps ve AI Security kontrollerinin tek yaşam döngüsünde birleştirilmesi.
+⏳ Secure AI SDLC — Requirements, design, development, training, testing, release, deployment, monitoring ve retirement süreçlerine güvenlik eklenmesi.
+⏳ AI Pipeline Security — Data ingestion, feature engineering, training, evaluation, packaging ve deployment pipeline'larının korunması.
+⏳ Secure Development Environments — Notebooks, IDEs, experiment platforms, build runners ve development credentials güvenliği.
+⏳ Dataset Supply-Chain Security — Third-party datasets, provenance, licenses, integrity checks ve poisoning riskleri.
+⏳ Model Supply-Chain Security — Public models, adapters, checkpoints ve pre-trained artifacts için source-trust değerlendirmesi.
+⏳ Third-Party Model Risk — Model provider, hosting service, API, license, data usage ve security-assurance kontrolleri.
+⏳ Dependency Security — Python packages, container images, ML libraries, CUDA dependencies ve transitive-dependency riskleri.
+⏳ Unsafe Model Serialization — Pickle ve benzeri formats üzerinden arbitrary-code-execution riskleri ve güvenli format değerlendirmesi.
+⏳ Artifact Signing & Verification — Model, dataset, container ve configuration artifacts için digital signatures, hashes ve provenance.
+⏳ AI Bill of Materials — Model, dataset, library, container, provider ve service dependencies'in envanterinin oluşturulması.
+⏳ Reproducibility — Dataset version, code commit, configuration, dependency, model checkpoint ve environment kayıtlarının tutulması.
+⏳ Secure CI/CD for AI — Automated tests, security scanning, policy checks, approvals ve protected deployment environments.
+⏳ Security Evaluation Gates — Model veya AI uygulaması production'a alınmadan önce zorunlu güvenlik ve risk testleri.
+⏳ Model Registry Promotion — Development, testing, staging ve production modelleri arasında kontrollü promotion.
+⏳ Canary & Shadow Deployment — Yeni model sürümlerinin sınırlı trafik veya shadow mode ile güvenli doğrulanması.
+⏳ Rollback & Model Revocation — Güvensiz veya bozuk model sürümlerinin hızla geri alınması ve kullanımının engellenmesi.
+⏳ Drift & Unauthorized Change Detection — Model, dataset, configuration ve infrastructure üzerinde beklenmeyen değişikliklerin tespiti.
+⏳ Vulnerability & Patch Management — AI frameworks, serving platforms, drivers, dependencies ve containers için güncelleme süreçleri.
+⏳ Vendor & Acquisition Security — Satın alınan veya dışarıdan kullanılan AI sistemlerinin security requirements ve assurance evidence ile değerlendirilmesi.
+
+---
+
+## 🧪 Module 23: AI Security Testing, Evaluation & Red Teaming — ⏳ Planned
+
+⏳ AI Security Test Planning — System scope, assets, threat model, test objectives, rules of engagement ve success criteria.
+⏳ Prompt Fuzzing — Farklı prompt structures, encodings, languages, obfuscation ve edge cases ile otomatik güvenlik testi.
+⏳ Jailbreak Testing — Model policy ve guardrail sınırlarının yetkili test ortamlarında değerlendirilmesi.
+⏳ Prompt-Injection Testing — Direct ve indirect injection senaryolarının application, RAG ve agent katmanlarında denenmesi.
+⏳ RAG Security Testing — Malicious documents, poisoned context, unauthorized retrieval ve source-manipulation senaryoları.
+⏳ Agentic Security Testing — Tool abuse, privilege escalation, unsafe planning, memory poisoning ve autonomous-action testleri.
+⏳ MCP Security Testing — Malicious server, poisoned tool metadata, unauthorized resource ve tool substitution senaryoları.
+⏳ Model Extraction Testing — Query limits, output precision, rate controls ve model-copying risklerinin değerlendirilmesi.
+⏳ Privacy Leakage Testing — Memorized data, personal information, training-data exposure ve membership-inference senaryoları.
+⏳ Adversarial Input Testing — Evasion, adversarial examples, malformed data ve multimodal-input manipülasyonları.
+⏳ Multimodal Security Testing — Image, audio, video, document ve hidden-instruction içeriklerinin modele etkisi.
+⏳ Tool & Output Exploitation — Model outputs üzerinden SQL injection, command injection, XSS, SSRF veya unsafe code execution riskleri.
+⏳ Abuse & Cost Testing — High-token prompts, recursive agents, repeated tool calls ve resource-exhaustion senaryoları.
+⏳ Automated AI Evaluations — Repeatable test suites, benchmark datasets, attack templates ve regression testing.
+⏳ Human Red Teaming — Context-dependent, creative ve chained attack paths'in deneyimli test uzmanları tarafından incelenmesi.
+⏳ Security vs Safety Evaluation — Siber güvenlik açıkları, kullanım politikası ihlalleri ve harmful-output risklerinin ayrı fakat ilişkili değerlendirilmesi.
+⏳ Findings & Severity Assessment — Exploitability, business impact, affected assets, reproducibility ve remediation priority.
+⏳ Remediation Verification — Uygulanan kontrollerin tekrar test edilmesi ve yeni bypass yöntemlerinin araştırılması.
+⏳ Responsible Testing Boundaries — Yalnızca yetkili sistemlerde, kontrollü test verileri ve sınırlı blast radius ile çalışma.
+
+---
+
+## 📡 Module 24: AI Security Monitoring, Threat Detection & Incident Response — ⏳ Planned
+
+⏳ AI Security Telemetry — Prompt, response, retrieval, model, tool-call, identity, authorization, network ve infrastructure olaylarının kaydı.
+⏳ Secure AI Logging — Hassas veriyi gereksiz toplamadan olay araştırmasına yetecek seviyede audit trail oluşturulması.
+⏳ Prompt & Response Monitoring — Injection patterns, data leakage, policy bypass ve suspicious-output davranışlarının tespiti.
+⏳ Agent Activity Monitoring — Tool selection, parameter values, file access, network requests, external actions ve approval decisions.
+⏳ RAG Monitoring — Retrieved documents, source trust, unusual retrieval patterns ve authorization failures.
+⏳ Model-Behavior Monitoring — Unexpected outputs, integrity issues, safety-control degradation ve model-version farklılıkları.
+⏳ Abuse Detection — Automated scraping, model extraction, credential testing, spam, fraud ve denial-of-wallet davranışları.
+⏳ Drift Monitoring — Data drift, concept drift, performance drift ve security-control drift arasındaki farklar.
+⏳ AI Security Metrics — Injection success rate, blocked actions, sensitive-data exposure, anomalous tool calls ve security-test regression results.
+⏳ SIEM Integration — AI application, model gateway, cloud, Kubernetes ve identity logs'un merkezi güvenlik izleme sistemlerine aktarılması.
+⏳ Detection Engineering — AI-specific detection rules, behavioral baselines, correlation rules ve alert tuning.
+⏳ Threat Hunting with MITRE ATLAS — AI sistemlerine yönelik tactics ve techniques üzerinden hipotez tabanlı araştırma.
+⏳ AI Incident Classification — Prompt injection, data leakage, compromised agent, poisoned RAG source, stolen model ve supply-chain compromise olayları.
+⏳ AI Incident Triage — Etkilenen model, dataset, users, tools, credentials, infrastructure ve business processes'in belirlenmesi.
+⏳ Containment Strategies — Agent tools'un kapatılması, model endpoint'in izole edilmesi, retrieval source'un kaldırılması ve access tokens'ın iptali.
+⏳ Eradication & Recovery — Poisoned content'in temizlenmesi, model veya dataset'in güvenli sürümden yeniden yüklenmesi ve controls'un doğrulanması.
+⏳ Model Rollback & Revocation — Güvensiz model, adapter veya configuration sürümünün kullanım dışı bırakılması.
+⏳ Credential & Secret Rotation — Agent, service, model provider ve tool credentials bilgilerinin olay sonrasında yenilenmesi.
+⏳ AI Forensics & Evidence Preservation — Prompts, outputs, retrieved content, tool executions, model versions ve configuration bilgilerinin korunması.
+⏳ Communication & Reporting — Teknik ekipler, yönetim, hukuk, privacy ve business stakeholders için olay iletişimi.
+⏳ Post-Incident Review — Timeline, root causes, control failures, lessons learned ve corrective actions.
+
+---
+
+## ⚖️ Module 25: AI Governance, Assurance, Standards & Compliance — ⏳ Planned
+
+⏳ AI Governance Foundations — AI ownership, roles, responsibilities, decision rights ve organizational oversight.
+⏳ NIST AI RMF — Govern, Map, Measure ve Manage fonksiyonlarıyla AI risk-management programı oluşturulması.
+⏳ NIST Generative AI Profile — Generative AI sistemlerine özgü risklerin ve risk-treatment yöntemlerinin değerlendirilmesi.
+⏳ NIST Secure AI Development Practices — AI model ve sistem geliştirme süreçlerinin Secure Software Development Framework ile uyumlu hâle getirilmesi.
+⏳ ISO/IEC 42001 — Artificial Intelligence Management System kurulumu, policy, objectives, risk management ve continuous improvement.
+⏳ ISO/IEC 23894 — AI risk-management principles, lifecycle risk identification ve risk-treatment yaklaşımı.
+⏳ EU AI Act — Prohibited practices, risk classifications, high-risk systems, general-purpose AI ve provider/deployer obligations.
+⏳ CSA AI Controls Matrix — Cloud tabanlı AI sistemleri için governance, security, privacy, supply chain ve operational controls.
+⏳ OWASP & MITRE Mapping — OWASP AI risks ve MITRE ATLAS techniques'in security controls ve test cases ile eşleştirilmesi.
+⏳ AI System Inventory — Kurum içinde geliştirilen, kullanılan veya third party üzerinden alınan AI sistemlerinin kayıt altına alınması.
+⏳ AI Risk Classification — Use case, autonomy, data sensitivity, user impact, business criticality ve regulatory exposure değerlendirmesi.
+⏳ AI Impact Assessments — Güvenlik, privacy, safety, fairness, human rights ve operational etkilerin sistem devreye alınmadan incelenmesi.
+⏳ Model Cards & System Cards — Model purpose, limitations, training information, evaluation results, risks ve intended-use bilgilerinin dokümantasyonu.
+⏳ Transparency & Explainability — Kullanıcı bilgilendirmesi, AI-generated content disclosure, model limitations ve decision explanations.
+⏳ Human Oversight — Kritik karar ve eylemlerde insan kontrolü, intervention, override ve escalation mekanizmaları.
+⏳ Accountability & Auditability — AI kararlarının, model versions'ın, approvals'ın ve configuration değişikliklerinin izlenebilir olması.
+⏳ Third-Party Assurance — Model providers, datasets, AI APIs ve SaaS services için due diligence ve contractual security requirements.
+⏳ Acceptable AI Use Policies — Çalışanların AI araçlarıyla hangi veri ve sistemleri kullanabileceğini belirleyen kurallar.
+⏳ AI Exception & Risk Acceptance — Güvenlik kontrollerinden sapmaların business owner ve risk owner tarafından onaylanması.
+⏳ Continuous Compliance — AI system, model, dataset, regulation ve control değişikliklerinin sürekli takip edilmesi.
+⏳ Responsible AI Principles — Privacy, fairness, transparency, reliability, safety, security ve accountability gereksinimlerinin birlikte yönetilmesi.
+
+---
+## 🏗️ Level 5 — Capstone Projects
+⏳ Project 1: Secure RAG Application — Authentication, document-level authorization, vector database isolation, prompt-injection protection, output validation, logging ve security testing içeren güvenli RAG uygulaması.
+⏳ Project 2: Agentic AI Security Laboratory — Kontrollü sandbox içinde tool kullanan bir AI agent'ın kurulması; least privilege, approval gates, MCP security, memory isolation, monitoring ve red-team testleri.
+⏳ Project 3: Secure AI Model-Serving Platform — Docker veya Kubernetes üzerinde model serving; API gateway, TLS, workload identity, secrets management, rate limiting, model registry, monitoring ve rollback.
+⏳ Project 4: AI Supply-Chain Security Pipeline — Model, dataset, container ve dependency artifacts için provenance, signing, vulnerability scanning, approval gates ve controlled deployment pipeline'ı.
+⏳ Project 5: AI Security Monitoring & Incident Response Lab — Prompt, RAG, agent ve infrastructure telemetry'sinin SIEM'e aktarılması; detection rules, simulated incidents, containment ve post-incident documentation.
+⏳ Project 6: Production-Grade Cloud AI Security Architecture — AWS, Terraform, Kubernetes, managed AI services, private networking, IAM, encryption, centralized logging, high availability ve AI governance kontrolleriyle uçtan uca güvenli platform.
+
+---
 
 # 🏆 Milestone Portfolio Projects
 
