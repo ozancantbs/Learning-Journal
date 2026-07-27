@@ -37,12 +37,12 @@ Yol haritası; teknik dokümantasyonlar, güvenlik odaklı değerlendirmeler, uy
 ## 🌐 Module 01: Advanced Networking for Platforms — ✅ In Progress
 
 - ✅ [**Physical & Data Link Layers** — OSI ve TCP/IP modelleri, encapsulation, fiziksel sinyaller, Ethernet frame yapısı, MAC addressing, switching, MTU, interface counters ve Layer 1/2 troubleshooting.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/01_Physical_%26_Data_Link_Layers)
-- ✅ **ARP & Local Network Dynamics** — ARP çalışma mantığı, neighbor table, ARP cache durumları, gratuitous ARP, proxy ARP, ARP spoofing riskleri ve Dynamic ARP Inspection.
-- ✅ **VLAN & VXLAN** — Layer 2 segmentasyonu, access ve trunk portlar, IEEE 802.1Q tagging, VLAN hopping riskleri, VXLAN overlay mimarisi, VTEP ve VNI kavramları.
-- ✅ **Network Routing & Subnetting** — IPv4 adresleme, CIDR, subnetting, routing table, default gateway, static ve dynamic routing temelleri, OSPF/BGP genel mantığı ve IP fragmentation.
-- ✅ **Transport Layer & Traffic Control** — TCP ve UDP, portlar ve socket'ler, TCP three-way handshake, sequence ve acknowledgment numbers, flow control, congestion control, retransmission ve connection termination.
-- ✅ **Application Layer Services** — DNS kayıt türleri, DNS resolution, DNS spoofing riskleri, DHCP DORA süreci, DHCP Snooping, HTTP/HTTPS ve TLS handshake.
-- ✅ **Load Balancing & Proxy Concepts** — Forward proxy ve reverse proxy, Layer 4 ve Layer 7 load balancing, health checks, session persistence, TLS termination ve TLS passthrough.
+- ✅ [**ARP & Local Network Dynamics** — ARP çalışma mantığı, neighbor table, ARP cache durumları, gratuitous ARP, proxy ARP, ARP spoofing riskleri ve Dynamic ARP Inspection.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/02_ARP_%26_Local_Network_Dynamics)
+- ✅ [**VLAN & VXLAN** — Layer 2 segmentasyonu, access ve trunk portlar, IEEE 802.1Q tagging, VLAN hopping riskleri, VXLAN overlay mimarisi, VTEP ve VNI kavramları.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/03_VLAN_%26_VXLAN)
+- ✅ [**Network Routing & Subnetting** — IPv4 adresleme, CIDR, subnetting, routing table, default gateway, static ve dynamic routing temelleri, OSPF/BGP genel mantığı ve IP fragmentation.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/04_Network_Routing_%26_Subnetting)
+- ✅ [**Transport Layer & Traffic Control** — TCP ve UDP, portlar ve socket'ler, TCP three-way handshake, sequence ve acknowledgment numbers, flow control, congestion control, retransmission ve connection termination.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/05_Transport_Layer_%26_Traffic_Control)
+- ✅ [**Application Layer Services** — DNS kayıt türleri, DNS resolution, DNS spoofing riskleri, DHCP DORA süreci, DHCP Snooping, HTTP/HTTPS ve TLS handshake.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/06_Application_Layer_Services)
+- ✅ [**Load Balancing & Proxy Concepts** — Forward proxy ve reverse proxy, Layer 4 ve Layer 7 load balancing, health checks, session persistence, TLS termination ve TLS passthrough.](https://github.com/ozancantbs/Learning-Journal/tree/main/Level_1/07_Load_Balancing_%26%20_Proxy_Concepts)
 
 ---
 
