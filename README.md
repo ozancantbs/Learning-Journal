@@ -39,6 +39,6 @@
 
 <br>
 
-<h3>Linux · Networking · Cybersecurity · Containers · Cloud · Automation · SRE · AI Security</h3>
+<h4>Linux · Networking · Cybersecurity · Containers · Cloud · Automation · SRE · AI Security</h4>
 
 </div>
