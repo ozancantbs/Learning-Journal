@@ -11,33 +11,30 @@
 <br>
 
 <a href="./Ozan_Systems_DevOps_Platform_Engineering_Roadmap_English.pdf">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=980&height=76&lines=Build+the+system.;Automate+the+workflow.;Secure+the+platform.;Observe%2C+test+and+improve." alt="Animated Systems, DevOps and Security roadmap introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=48&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=1250&height=118&lines=Build+the+system.;Automate+the+workflow.;Secure+the+platform.;Observe%2C+test+and+improve." alt="Animated Systems, DevOps and Security roadmap introduction" />
 </a>
 
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/LINUX-SYSTEMS-84CC16?style=for-the-badge&logo=linux&logoColor=white&labelColor=3F3F46" height="32" alt="Linux Systems" />
-  <img src="https://img.shields.io/badge/DEVSECOPS-AUTOMATION-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" height="32" alt="DevSecOps Automation" />
-  <img src="https://img.shields.io/badge/CLOUD-SRE-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="32" alt="Cloud and SRE" />
-  <img src="https://img.shields.io/badge/AI-SECURITY-2EA043?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="AI Security" />
+  <img src="https://img.shields.io/badge/LINUX-SYSTEMS-84CC16?style=for-the-badge&logo=linux&logoColor=white&labelColor=3F3F46" height="48" alt="Linux Systems" />
+  <img src="https://img.shields.io/badge/DEVSECOPS-AUTOMATION-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" height="48" alt="DevSecOps Automation" />
+  <img src="https://img.shields.io/badge/CLOUD-SRE-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="48" alt="Cloud and SRE" />
+  <img src="https://img.shields.io/badge/AI-SECURITY-2EA043?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="AI Security" />
 </p>
 
-<h3>A practical, project-driven roadmap for building secure, automated, observable and reliable infrastructure.</h3>
+<h2>A practical, project-driven roadmap for building secure, automated, observable and reliable infrastructure.</h2>
 
 <br>
 
 <p>
   <a href="./Ozan_Systems_DevOps_Platform_Engineering_Roadmap_English.pdf">
-    <img src="https://img.shields.io/badge/OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35" alt="Open Full Roadmap PDF" />
-  </a>
-  <a href="./Level_1">
-    <img src="https://img.shields.io/badge/START-LEVEL_1-1F6FEB?style=for-the-badge&logo=github&logoColor=white" height="35" alt="Start Level 1" />
+    <img src="https://img.shields.io/badge/OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=4B5563" height="64" alt="Open Full Roadmap PDF" />
   </a>
 </p>
 
 <br>
 
-<h4>Linux · Networking · Cybersecurity · Containers · Cloud · Automation · SRE · AI Security</h4>
+<h3>Linux · Networking · Cybersecurity · Containers · Cloud · Automation · SRE · AI Security</h3>
 
 </div>
