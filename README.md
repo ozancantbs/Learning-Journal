@@ -9,6 +9,8 @@
 <p align="center">
   <strong>Systems · Security · DevOps · Cloud · SRE · Platform Engineering</strong>
 </p>
+<img width="203" height="141" alt="image" src="https://github.com/user-attachments/assets/0baa1ebc-3822-4d82-a9b4-8faec5cbc55f" />
+
 
 > A long-term, hands-on learning journal focused on building practical skills in system administration, networking, cybersecurity, DevSecOps, cloud infrastructure, reliability, and platform engineering.
 
