@@ -28,8 +28,12 @@
 <br>
 
 <p>
-  <a href="./Ozan_Systems_DevOps_Platform_Engineering_Roadmap_English.pdf">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84_OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&labelColor=4B5563" height="64" alt="Open Full Roadmap PDF" />
+  <a href="https://github.com/ozancantbs/Learning-Journal/blob/main/Road_Map.pdf">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%93%84_OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&labelColor=4B5563"
+      height="64"
+      alt="Open Full Roadmap PDF"
+    />
   </a>
 </p>
 
