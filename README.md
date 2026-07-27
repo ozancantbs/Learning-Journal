@@ -19,8 +19,8 @@
 <p>
   <img src="https://img.shields.io/badge/LINUX-SYSTEMS-84CC16?style=for-the-badge&logo=linux&logoColor=white&labelColor=3F3F46" height="48" alt="Linux Systems" />
   <img src="https://img.shields.io/badge/DEVSECOPS-AUTOMATION-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" height="48" alt="DevSecOps Automation" />
-  <img src="https://img.shields.io/badge/CLOUD-SRE-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="48" alt="Cloud and SRE" />
-  <img src="https://img.shields.io/badge/AI-SECURITY-2EA043?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="AI Security" />
+  <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD-SRE-7C3AED?style=for-the-badge&labelColor=4B5563" height="48" alt="Cloud and SRE" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI-SECURITY-2EA043?style=for-the-badge&labelColor=4B5563" height="48" alt="AI Security" />
 </p>
 
 <h2>A practical, project-driven roadmap for building secure, automated, observable and reliable infrastructure.</h2>
@@ -29,7 +29,7 @@
 
 <p>
   <a href="./Ozan_Systems_DevOps_Platform_Engineering_Roadmap_English.pdf">
-    <img src="https://img.shields.io/badge/OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=4B5563" height="64" alt="Open Full Roadmap PDF" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%84_OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&labelColor=4B5563" height="64" alt="Open Full Roadmap PDF" />
   </a>
 </p>
 
