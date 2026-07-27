@@ -46,17 +46,17 @@ Yol haritası; teknik dokümantasyonlar, güvenlik odaklı değerlendirmeler, uy
 
 ---
 
-## 🐧 Module 02: Enterprise Linux System Administration — ⏳ Planned
+## 🐧 Module 02: Enterprise Linux System Administration — ✅ In Progress
 
-- ⏳ **Linux Architecture, Boot Process & FHS** — Kernel, initramfs, GRUB, systemd, boot süreci ve Linux dizin hiyerarşisi; `/etc`, `/var`, `/home`, `/opt`, `/tmp`, `/proc`, `/sys` ve `/dev`.
-- ⏳ **Shell, CLI & Stream Processing** — Standard input/output, pipes, redirection, environment variables ve `grep`, `awk`, `sed`, `cut`, `sort`, `uniq`, `find`, `xargs` gibi araçlar.
-- ⏳ **User & Permission Management** — User ve group yönetimi, UID/GID, `chmod`, `chown`, `umask`, POSIX ACLs, sudoers ve least-privilege yaklaşımı.
-- ⏳ **Process & Resource Management** — Process lifecycle, signals, foreground/background jobs, `ps`, `top`, `htop`, `kill`, file descriptors, memory ve CPU resource takibi.
-- ⏳ **systemd, Services & Scheduled Tasks** — Unit files, service dependencies, `systemctl`, `journalctl`, restart policies, systemd timers ve cron.
-- ⏳ **Storage, Filesystems & LVM** — Partitioning, block devices, ext4, XFS, mount işlemleri, `/etc/fstab`, inode yapısı, swap, LVM, RAID ve disk kapasite yönetimi.
-- ⏳ **Linux Networking & Troubleshooting** — Interface yönetimi, routing, DNS çözümleme, `/etc/hosts`, `systemd-resolved`, `ip`, `ss`, `tcpdump`, `dig`, `curl`, `nc` ve network namespaces.
-- ⏳ **Package & Repository Management** — `apt`, `dpkg`, `dnf`, `rpm`, repository yapıları, package signatures, dependency management ve güvenli güncelleme süreçleri.
-- ⏳ **Logging, Time & Operational Maintenance** — `/var/log`, systemd journal, rsyslog, log rotation, NTP, chrony, backup, restore validation ve bakım planları.
+- ✅ **Linux Architecture, Boot Process & FHS** — Kernel, initramfs, GRUB, systemd, boot süreci ve Linux dizin hiyerarşisi; `/etc`, `/var`, `/home`, `/opt`, `/tmp`, `/proc`, `/sys` ve `/dev`.
+- ✅ **Shell, CLI & Stream Processing** — Standard input/output, pipes, redirection, environment variables ve `grep`, `awk`, `sed`, `cut`, `sort`, `uniq`, `find`, `xargs` gibi araçlar.
+- ✅ **User & Permission Management** — User ve group yönetimi, UID/GID, `chmod`, `chown`, `umask`, POSIX ACLs, sudoers ve least-privilege yaklaşımı.
+- ✅ **Process & Resource Management** — Process lifecycle, signals, foreground/background jobs, `ps`, `top`, `htop`, `kill`, file descriptors, memory ve CPU resource takibi.
+- ✅ **systemd, Services & Scheduled Tasks** — Unit files, service dependencies, `systemctl`, `journalctl`, restart policies, systemd timers ve cron.
+- ✅ **Storage, Filesystems & LVM** — Partitioning, block devices, ext4, XFS, mount işlemleri, `/etc/fstab`, inode yapısı, swap, LVM, RAID ve disk kapasite yönetimi.
+- ✅ **Linux Networking & Troubleshooting** — Interface yönetimi, routing, DNS çözümleme, `/etc/hosts`, `systemd-resolved`, `ip`, `ss`, `tcpdump`, `dig`, `curl`, `nc` ve network namespaces.
+- ✅ **Package & Repository Management** — `apt`, `dpkg`, `dnf`, `rpm`, repository yapıları, package signatures, dependency management ve güvenli güncelleme süreçleri.
+- ✅ **Logging, Time & Operational Maintenance** — `/var/log`, systemd journal, rsyslog, log rotation, NTP, chrony, backup, restore validation ve bakım planları.
 
 ---
 
