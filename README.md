@@ -319,17 +319,17 @@ Yapay zekâ ve makine öğrenmesi sistemlerinin mimarisinin, tehdit yüzeylerini
 
 ## 🧠 Module 16: AI, Machine Learning & LLM Foundations for Security Engineers — ⏳ Planned
 
--⏳ AI & Machine Learning Foundations — <sub>*Artificial Intelligence, Machine Learning, Deep Learning ve Generative AI arasındaki farklar; supervised, unsupervised, reinforcement ve self-supervised learning yaklaşımları.*<sub>
--⏳ AI System Lifecycle — <sub>*Veri toplama, veri hazırlama, training, validation, testing, fine-tuning, deployment, inference, monitoring, retraining ve retirement aşamaları.*<sub>
--⏳ Model Architecture Fundamentals — <sub>*Neural networks, parameters, weights, layers, loss functions, optimization, checkpoints ve model formats kavramları.*<sub>
--⏳ Large Language Model Fundamentals — <sub>*Transformer mimarisi, attention, tokens, tokenization, context window, temperature, sampling ve hallucination kavramları.*<sub>
--⏳ Embeddings & Semantic Search — <sub>*Embedding modelleri, similarity search, vector representations, indexing ve semantic-retrieval çalışma mantığı.*<sub>
--⏳ Retrieval-Augmented Generation — <sub>*RAG ingestion, chunking, embedding, retrieval, reranking, context construction ve generation akışı.*<sub>
--⏳ Vector Databases — <sub>*Vector indexes, metadata filtering, namespaces, document permissions, multi-tenancy ve vector-store erişim kontrolü.*<sub>
--⏳ AI Agents & Tool Use — <sub>*Planning, reasoning loops, memory, tool calling, function calling, external APIs ve autonomous-action riskleri.*<sub>
--⏳ Model Context Protocol Fundamentals — <sub>*MCP servers, clients, tools, resources, prompts, trust boundaries ve third-party integration riskleri.*<sub>
--⏳ Training, Fine-Tuning & Inference — <sub>*Pre-training, supervised fine-tuning, instruction tuning, adapters, LoRA, quantization ve inference-serving farkları.*<sub>
--⏳ AI Security Terminology — <sub>*Model, dataset, prompt, system prompt, guardrail, agent, inference endpoint, model registry ve evaluation kavramları.*<sub>
+-⏳ **AI & Machine Learning Foundations — <sub>*Artificial Intelligence, Machine Learning, Deep Learning ve Generative AI arasındaki farklar; supervised, unsupervised, reinforcement ve self-supervised learning yaklaşımları.*<sub>
+-⏳ **AI System Lifecycle — <sub>*Veri toplama, veri hazırlama, training, validation, testing, fine-tuning, deployment, inference, monitoring, retraining ve retirement aşamaları.*<sub>
+-⏳ **Model Architecture Fundamentals — <sub>*Neural networks, parameters, weights, layers, loss functions, optimization, checkpoints ve model formats kavramları.*<sub>
+-⏳ **Large Language Model Fundamentals — <sub>*Transformer mimarisi, attention, tokens, tokenization, context window, temperature, sampling ve hallucination kavramları.*<sub>
+-⏳ **Embeddings & Semantic Search — <sub>*Embedding modelleri, similarity search, vector representations, indexing ve semantic-retrieval çalışma mantığı.*<sub>
+-⏳ **Retrieval-Augmented Generation — <sub>*RAG ingestion, chunking, embedding, retrieval, reranking, context construction ve generation akışı.*<sub>
+-⏳ **Vector Databases — <sub>*Vector indexes, metadata filtering, namespaces, document permissions, multi-tenancy ve vector-store erişim kontrolü.*<sub>
+-⏳ **AI Agents & Tool Use — <sub>*Planning, reasoning loops, memory, tool calling, function calling, external APIs ve autonomous-action riskleri.*<sub>
+-⏳ **Model Context Protocol Fundamentals — <sub>*MCP servers, clients, tools, resources, prompts, trust boundaries ve third-party integration riskleri.*<sub>
+-⏳ **Training, Fine-Tuning & Inference — <sub>*Pre-training, supervised fine-tuning, instruction tuning, adapters, LoRA, quantization ve inference-serving farkları.*<sub>
+-⏳ **AI Security Terminology — <sub>*Model, dataset, prompt, system prompt, guardrail, agent, inference endpoint, model registry ve evaluation kavramları.*<sub>
 
 ---
 
