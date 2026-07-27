@@ -1,19 +1,29 @@
+🏆 Systems, DevOps & Platform Engineering
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:1F6FEB,100:7C3AED&text=Systems%20%7C%20DevOps%20%7C%20Security&fontColor=FFFFFF&fontSize=34&fontAlignY=38&animation=fadeIn&desc=Learning%20Roadmap%20%26%20Engineering%20Journal&descAlignY=58&descSize=16" width="100%" alt="Systems, DevOps and Security Learning Roadmap" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Build+the+system.;Automate+the+workflow.;Secure+the+platform.;Observe%2C+test+and+improve." alt="Animated engineering focus" />
+<a href="./Ozan_Systems_DevOps_Platform_Engineering_Roadmap_English.pdf">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Build+the+system.;Automate+the+workflow.;Secure+the+platform.;Observe%2C+test+and+improve." alt="Animated Systems, DevOps and Security roadmap introduction" />
 </a>
 
+<p>
+  <img src="https://img.shields.io/badge/LINUX-SYSTEMS-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Systems" />
+  <img src="https://img.shields.io/badge/DEVSECOPS-AUTOMATION-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" alt="DevSecOps Automation" />
+  <img src="https://img.shields.io/badge/CLOUD-SRE-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud and SRE" />
+  <img src="https://img.shields.io/badge/AI-SECURITY-2EA043?style=for-the-badge&logo=openai&logoColor=white" alt="AI Security" />
+</p>
 
+<p><strong>A practical, project-driven roadmap for building secure, automated, observable and reliable infrastructure.</strong></p>
 
-A concise, hands-on engineering roadmap covering Linux, networking, cybersecurity, containers, cloud, automation, SRE and AI security through structured documentation and progressively advanced portfolio projects.
+<p>
+  <a href="./Ozan_Systems_DevOps_Platform_Engineering_Roadmap_English.pdf">
+    <img src="https://img.shields.io/badge/OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open Full Roadmap PDF" />
+  </a>
+  <a href="./Level_1">
+    <img src="https://img.shields.io/badge/START-LEVEL_1-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Start Level 1" />
+  </a>
+</p>
 
-<br>
-
-
-
-<sub>Secure foundations first. Production-oriented engineering next.</sub>
+<sub>Linux · Networking · Cybersecurity · Containers · Cloud · Automation · SRE · AI Security</sub>
 
 </div>
