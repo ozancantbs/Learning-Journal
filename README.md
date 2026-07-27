@@ -9,6 +9,10 @@
 <p align="center">
   <strong>Systems · Security · DevOps · Cloud · SRE · Platform Engineering</strong>
 </p>
+
+
+
+
 <img width="203" height="141" alt="image" src="https://github.com/user-attachments/assets/0baa1ebc-3822-4d82-a9b4-8faec5cbc55f" />
 
 
