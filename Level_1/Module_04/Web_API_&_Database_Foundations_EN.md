@@ -120,11 +120,11 @@ When multiple transactions access the same data simultaneously:
 
 ## 🛠️ Security & Architecture Checklist for Developers
 
-- [ ] HTTPS enforced across all endpoints with TLS 1.3/1.2.
-- [ ] Cookies configured with `HttpOnly`, `Secure`, and `SameSite=Lax/Strict`.
-- [ ] JWT signatures validated using a strong secret/private key on every request.
-- [ ] Rate limiting implemented at the API Gateway or Application Level (`429 Too Many Requests`).
-- [ ] Inputs sanitized and parameterized queries (Prepared Statements) used to prevent SQL Injection.
-- [ ] Proper CORS policies defined; avoiding wildcard `Access-Control-Allow-Origin: *` on authenticated APIs.
-- [ ] Database transactions configured with appropriate isolation levels and locking mechanisms to prevent race conditions.
-- [ ] Caching layers configured with eviction policies (TTL) and disk persistence (RDB/AOF) where applicable.
+- [x] HTTPS enforced across all endpoints with TLS 1.3/1.2.
+- [x] Cookies configured with `HttpOnly`, `Secure`, and `SameSite=Lax/Strict`.
+- [x] JWT signatures validated using a strong secret/private key on every request.
+- [x] Rate limiting implemented at the API Gateway or Application Level (`429 Too Many Requests`).
+- [x] Inputs sanitized and parameterized queries (Prepared Statements) used to prevent SQL Injection.
+- [x] Proper CORS policies defined; avoiding wildcard `Access-Control-Allow-Origin: *` on authenticated APIs.
+- [x] Database transactions configured with appropriate isolation levels and locking mechanisms to prevent race conditions.
+- [x] Caching layers configured with eviction policies (TTL) and disk persistence (RDB/AOF) where applicable.
