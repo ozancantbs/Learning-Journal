@@ -11,13 +11,11 @@
 </a>
 
 <br>
+
 ---
-<p>
-  <img src="https://img.shields.io/badge/LINUX-SYSTEMS-84CC16?style=for-the-badge&logo=linux&logoColor=white&labelColor=3F3F46" height="48" alt="Linux Systems" />
-  <img src="https://img.shields.io/badge/DEVSECOPS-AUTOMATION-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" height="48" alt="DevSecOps Automation" />
-  <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD-SRE-7C3AED?style=for-the-badge&labelColor=4B5563" height="48" alt="Cloud and SRE" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI-SECURITY-2EA043?style=for-the-badge&labelColor=4B5563" height="48" alt="AI Security" />
-</p>
+
+<img width="742" height="83" alt="image" src="https://github.com/user-attachments/assets/3e53ed49-fa18-48d1-83e1-4f1f52511fa5" />
+
 
 <h2>A practical, project-driven roadmap for building secure, automated, observable and reliable infrastructure.</h2>
 
