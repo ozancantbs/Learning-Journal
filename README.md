@@ -1,12 +1,7 @@
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/%20-F59E0B?style=for-the-badge&logo=gnubash&logoColor=white" height="60" alt="Systems engineering icon" />
-  <a href="./Ozan_Systems_DevOps_Platform_Engineering_Roadmap_English.pdf">
-    <img src="https://img.shields.io/badge/SYSTEMS%2C_DEVOPS_%26_PLATFORM_ENGINEERING-F59E0B?style=for-the-badge" height="60" alt="Systems, DevOps and Platform Engineering" />
-  </a>
-  <img src="https://img.shields.io/badge/%20-F59E0B?style=for-the-badge&logo=kubernetes&logoColor=white" height="60" alt="Platform engineering icon" />
-</p>
+<img width="631" height="56" alt="image" src="https://github.com/user-attachments/assets/426cfc09-546d-4da6-ad8f-61188c906337" />
+
 
 <br>
 
