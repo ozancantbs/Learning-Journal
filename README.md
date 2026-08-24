@@ -16,6 +16,7 @@
 
 <img width="742" height="83" alt="image" src="https://github.com/user-attachments/assets/3e53ed49-fa18-48d1-83e1-4f1f52511fa5" />
 
+---
 
 <h2>A practical, project-driven roadmap for building secure, automated, observable and reliable infrastructure.</h2>
 
