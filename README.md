@@ -25,10 +25,7 @@
 <p>
   <a href="https://github.com/ozancantbs/Learning-Journal/blob/main/Road_Map.pdf">
     <img
-      src="https://img.shields.io/badge/%F0%9F%93%84_OPEN_FULL_ROADMAP-PDF-B42318?style=for-the-badge&labelColor=4B5563"
-      height="64"
-      alt="Open Full Roadmap PDF"
-    />
+      <img width="360" height="48" alt="image" src="https://github.com/user-attachments/assets/1eb9342e-297b-48a5-86f2-fd8e1341c844" />
   </a>
 </p>
 
