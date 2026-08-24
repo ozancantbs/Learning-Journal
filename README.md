@@ -2,6 +2,7 @@
 
 <img width="631" height="56" alt="image" src="https://github.com/user-attachments/assets/426cfc09-546d-4da6-ad8f-61188c906337" />
 
+---
 
 <br>
 
@@ -10,7 +11,7 @@
 </a>
 
 <br>
-
+---
 <p>
   <img src="https://img.shields.io/badge/LINUX-SYSTEMS-84CC16?style=for-the-badge&logo=linux&logoColor=white&labelColor=3F3F46" height="48" alt="Linux Systems" />
   <img src="https://img.shields.io/badge/DEVSECOPS-AUTOMATION-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" height="48" alt="DevSecOps Automation" />
